@@ -1,0 +1,6 @@
+{
+  "name": "AAB AI",
+  "description": "AAB AI - All-in-One AI Studio created by Aditya Ashok Bagh. Featuring AI Chat, Hindi Story Writer, Content Writer, Photo Generator, and Video Creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
